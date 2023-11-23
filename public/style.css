@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: aquamarine;
+   
+}
+
+ul{
+    display: flex;
+   
+}
+
+ul li{
+    list-style: none;
+    margin: 10px;
+    background-color: rgb(19, 219, 226);
+    padding: 10px;
+    
+}
+
+ul li:hover{
+    background-color:rgb(34, 174, 179) ;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer{
+    background-color: rgb(242, 255, 127);
+}
+
+.bg-info{
+    margin: 10px;
+}
